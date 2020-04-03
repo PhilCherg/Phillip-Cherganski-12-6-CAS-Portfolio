@@ -1,0 +1,31 @@
+.entries {
+	width: 100%;
+	background-color: #F5F3D7;
+	padding: 30px 0 0.1px 0;
+}
+
+.event {
+	overflow: hidden;
+	width: 90%;
+	margin: 0 auto 30px auto;
+	box-sizing: border-box;
+	border: solid #333 5px;
+	border-radius: 10px;
+	background-color: #EBE8AF;
+}
+
+.event p {
+	line-height: 1.35em;
+}
+
+.event img {
+	width: 30%;
+}
+
+.bigPhoto {
+	width: 50% !important;
+}
+
+.bigText {
+	padding-left: 52% !important;
+}
