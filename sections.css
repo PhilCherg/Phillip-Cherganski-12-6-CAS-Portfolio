@@ -29,3 +29,9 @@
 .bigText {
 	padding-left: 52% !important;
 }
+
+.logo {
+	width: 17% !important;
+	margin: auto;
+	display: block;
+}
