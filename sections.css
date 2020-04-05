@@ -26,8 +26,12 @@
 	width: 50% !important;
 }
 
-.bigText {
+.bigText-left {
 	padding-left: 52% !important;
+}
+
+.bigText-right {
+	padding-right: 52% !important;
 }
 
 .logo {
