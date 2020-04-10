@@ -4,6 +4,11 @@
 	padding: 30px 0 0.1px 0;
 }
 
+.sectionReflection {
+	padding: 0 60px;
+	text-align: center;
+}
+
 .event {
 	overflow: hidden;
 	width: 90%;
@@ -12,6 +17,10 @@
 	border: solid #333 5px;
 	border-radius: 10px;
 	background-color: #EBE8AF;
+}
+
+.event h2 {
+	margin-top: 20px;
 }
 
 .event p {
